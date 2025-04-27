@@ -22,4 +22,3 @@
 
 ## Learnings
 - Improved Excel skills such as data cleaning, formula applications, and Pivot Table creation.
-- Gained better understanding of retail sales data and business metrics.
