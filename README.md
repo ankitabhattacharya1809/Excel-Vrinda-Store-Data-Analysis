@@ -1,9 +1,5 @@
 # Vrinda Store - Sales Analysis (Excel Project)
 
-## About
-This project involves analyzing sales data from Vrinda Store using Microsoft Excel.  
-It focuses on data cleaning, summarization, and deriving key business insights through formulas, Pivot Tables, and charts.
-
 ## Project Objective
 - Clean and organize raw sales data.
 - Perform descriptive analysis to understand sales trends.
