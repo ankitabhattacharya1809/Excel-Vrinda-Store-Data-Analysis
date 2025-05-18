@@ -1,6 +1,7 @@
 # Vrinda Store - Sales Analysis (Excel Project)
 
-![Dashboard Preview](Vrinda_Stor_ Sales_Analysis.jpg) 
+![Vrinda_Stor_ Sales_Analysis](https://github.com/user-attachments/assets/64d8e21e-605e-46df-a0e8-584cd46da261)
+
 ## Dashboard Overview
 The image above shows a dynamic Excel dashboard created using Pivot Tables and Charts. It includes key metrics like Orders vs Sales, Channel-wise Orders, Regional Performance, Gender and Age-based Segmentation, and Order Status.
 
