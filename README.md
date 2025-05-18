@@ -1,5 +1,9 @@
 # Vrinda Store - Sales Analysis (Excel Project)
 
+![Dashboard Preview](images/Vrinda_Store_Sales_Analysis.jpg) 
+## Dashboard Overview
+The image above shows a dynamic Excel dashboard created using Pivot Tables and Charts. It includes key metrics like Orders vs Sales, Channel-wise Orders, Regional Performance, Gender and Age-based Segmentation, and Order Status.
+
 ## Project Objective
 - Clean and organize raw sales data.
 - Perform descriptive analysis to understand sales trends.
